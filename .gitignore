@@ -1,0 +1,21 @@
+# Python
+*.pyc
+*~
+__pycache__
+
+# Environments
+.env
+myvenv/
+venv/
+my_concurrency_venv/
+
+# Windows
+Thumbs.db*
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio
+.vscode/
+.history/
+*.code-workspace
